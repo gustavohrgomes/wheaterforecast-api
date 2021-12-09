@@ -7,7 +7,7 @@ on:
 
 env:
   HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
-  APP_NAME: ${{ 'wheater-api' }}
+  APP_NAME: ${{ 'wheaterforecast-api' }}
 
 jobs:
   build:
