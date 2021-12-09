@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WheaterForecast.API", "WheaterForecast.API\WheaterForecast.API.csproj", "{29BB1123-BAFA-45DF-AEDB-C3668BE95122}"
 EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{53AFBCE4-DAEF-457D-8007-A77CAF839438}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{29BB1123-BAFA-45DF-AEDB-C3668BE95122}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29BB1123-BAFA-45DF-AEDB-C3668BE95122}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29BB1123-BAFA-45DF-AEDB-C3668BE95122}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53AFBCE4-DAEF-457D-8007-A77CAF839438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53AFBCE4-DAEF-457D-8007-A77CAF839438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53AFBCE4-DAEF-457D-8007-A77CAF839438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53AFBCE4-DAEF-457D-8007-A77CAF839438}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
